@@ -38,7 +38,8 @@
 <br>
 
 - 最热文章，最新文章，最热标签
-![image](https://github.com/njuptzx/JavaBlog/blob/main/picture/%E4%B8%BB%E9%A1%B5.PNG?raw=true)
+
+![image](https://github.com/njuptzx/JavaBlog/blob/main/picture/%E6%9C%80.PNG?raw=true)
 <br>
 
 - 评论并回复
